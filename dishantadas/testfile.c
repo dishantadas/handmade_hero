@@ -1,1 +1,0 @@
-//To check if I successfully setup my git or not in my new laptop
